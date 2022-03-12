@@ -1,5 +1,9 @@
 # Website prototype with ReactJS
 
+![](login.jpg)
+
+![](home.jpg)
+
 ## To run the project
 ### `yarn start`
 
